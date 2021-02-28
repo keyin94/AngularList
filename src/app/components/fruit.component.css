@@ -1,0 +1,12 @@
+.fruiticon {
+  width: 5em;
+  opacity: 0.4;
+  transition-property: opacity;
+  transition-timing-function: linear;
+  transition-duration: 100ms;
+  padding: 0.5em;
+}
+
+.fruiticon:hover {
+  opacity: 1;
+}

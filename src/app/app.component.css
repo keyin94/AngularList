@@ -1,0 +1,52 @@
+.headericon {
+  text-align: center;
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+
+.fruitlist {
+  border: 2px lightgrey solid;
+  border-radius: 5px;
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1%;
+  padding-top: 3%;
+}
+
+.displaylist {
+  width: 80%;
+  padding-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5em;
+}
+
+.form-control {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(248, 217, 221);
+  border-color: rgb(252, 184, 157);
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-header {
+  background-color: maroon;
+  color: mintcream;
+  text-align: center;
+}
+
+.delivery {
+  text-align: left;
+  padding-bottom: 3em;
+}
+
+:disabled {
+  cursor: not-allowed;
+}
